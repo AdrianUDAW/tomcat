@@ -1,0 +1,121 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tg {
+	
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+.tg td {
+	
+	border: 5px solid black;
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	overflow:hidden;
+	padding:10px 5px;
+	word-break:normal;
+}
+
+.tg .tg-0pky {
+	border-color: black;
+	text-align:left;
+	vertical-align:top
+}
+
+.tg .tg-fymr {
+	
+	border-color: black;
+	font-weight:bold;
+	text-align:left;
+	vertical-align:top
+	
+}
+
+#moure {text-align:center;top:40%;}
+
+#moure>a {
+	
+	text-decoration: none;
+	border: 3px solid blue;
+	background-color: black;
+	color:white;
+	padding: 15px;
+
+}
+
+button>a {
+	
+	text-decoration:none;
+	
+}
+
+#retornar {text-align: center;}
+
+#retorn {
+	
+	text-align: center;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-decoration: none;
+	border: 3px solid blue;
+	background-color: black;
+	color:white;
+	padding: 15px;
+	cursor: pointer;
+	font-size:14px;
+	
+}
+
+
+#retorn:hover {
+	
+	filter: brightness(150%);
+	border: 3px solid yellow;
+
+}
+
+
+#reset {
+	
+	text-decoration: none;
+	border: 3px solid blue;
+	background-color: black;
+	color:white;
+	padding: 15px;
+	cursor: pointer;
+}
+
+#reset:hover {
+	
+	filter: brightness(150%);
+	border: 3px solid yellow;
+
+}
+
+#retornar {margin-top:10px;}
+
+#guardar {
+	
+	text-decoration: none;
+	border: 3px solid blue;
+	background-color: black;
+	color:white;
+	padding: 15px;
+	cursor: pointer;
+}
+
+#guardar:hover {
+	
+	filter: brightness(150%);
+	border: 3px solid yellow;
+
+}
+
+/* Math.floor(Math.random() * (MAX - MIN + 1)) + MIN;*/
+
+
+
+
